@@ -1,2 +1,2 @@
-# Algo-prueba
+# Ejemplo_de_CareTips
 Created with CodeSandbox
